@@ -18,7 +18,7 @@ Drupal.settings.debug = true;
 Drupal.settings.site_path = 'http://gigplanning.com'; // e.g. http://www.example.com
 
 // Default Services Endpoint Path
-Drupal.settings.endpoint = 'drupalgap';
+Drupal.settings.endpoint = 'DrupalGap';
 
 // Files Directory Paths (use one or the other)
 Drupal.settings.file_public_path = 'sites/default/files';
